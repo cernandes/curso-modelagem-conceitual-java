@@ -32,13 +32,13 @@ Construir um API Rest de um modelo conceitual, disponibilizando end points para 
 ### Diagrama de classe
 
 <p>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/cernandes/curso-modelagem-conceitual-java/master/assets/img/uml-diagrama.JPG">
 </p>
 
 ### Diagrama de objetos
 
 <p>
-    <img src="">
+    <img src="https://raw.githubusercontent.com/cernandes/curso-modelagem-conceitual-java/master/assets/img/object-diagrama.JPG">
 </p>
 
 ### :rocket: Rest
